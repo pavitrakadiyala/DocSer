@@ -1,0 +1,120 @@
+tial, since many of the lesions treated
+by this method are decidedly uncommon. Eventually, this collaboration
+may make it possible for us to standardize techniques or even undertake
+prospective clinical trials.
+Michael R. McKenzie, MD
+Radiation Oncology
+BC Cancer Agency
+Vancouver Cancer Centre
+Vancouver, BC
+Reference
+1. Firlik KS, Kondziolka D, Lunsford LD,
+Janecka IP, Flickinger JC. Radiosurgery
+for recurrent cranial base cancer arising
+from the head and neck. Head Neck
+1996;18(2):160-5.
+Over the last decade the use of
+stereotactic radiosurgery has increased worldwide as an important,
+minimally invasive surgical treatment. However, radiosurgery has developed much more slowly in Canada
+than in other countries, despite the
+prominence of Canadian experts in
+neurosurgery and radiation oncology.
+As Dr. Schwartz states, the application of any technology is dependent on operator skill, and one component of that skill relates to
+experience. The issue is how patients
+and physicians can assess level of
+technical expertise, particularly for
+novel treatments such as radiosurgery.
+To Schwartz’s description of the
+basic aspects of each technology we
+would add the comment that investigators comparing the physics of the
+Gamma Knife and the linear accelerator found that dose plans were
+better with the Gamma Knife.1,2
+With regard to fractionation and
+radiosurgery, the literature argues for
+single-fraction radiosurgery for arteriovenous malformations and benign
+tumours.3,4 Hall and Brenner3 recommended fractionation for malignant
+tumours, acknowledging that good
+results can be obtained with radiosurgical treatment for malignant lesions
+of the brain.
+Canadian physicians must recommend treatments on the basis of
+safety, efficacy and cost-effectiveness.
+Until physicians and their patients
+have some understanding of the
+safety and efficacy of radiosurgery in
+Canada, we caution against the blanket denials of provincial health plans
+to Canadian patients who, on the recommendation of their physicians,
+choose to receive such care outside
+Canada.
+Douglas Kondziolka, MD, MSc
+Associate Professor
+Neurological Surgery and Radiation 
+Oncology
+Department of Neurological Surgery
+Presbyterian University Hospital
+University of Pittsburgh
+Pittsburgh, Pa.
+Michael D. Cusimano, MD
+Associate Professor of Neurosurgery
+Division of Neurosurgery
+St. Michael’s Hospital
+University of Toronto
+Toronto, Ont.
+Disclosure: Dr. Kondziolka is a
+consultant for Elekta Instruments, Inc.
+References
+1. Verhey LJ, Smith V, Serago CF. Comparison of radiosurgery treatment modalities
+based on physical dose distributions. Int J
+Radiat Oncol Biol Phys 1998;40:497-505.
+2. Smith V, Verhey LJ, Serago CF. Comparison of radiosurgery treatment modalities
+based on complication and control probabilities. Int J Radiat Oncol Biol Phys
+1998;40:507-13.
+3. Hall E, Brenner D. The radiobiology of
+radiosurgery: rationale for different treatment regimens for AVMs and malignancies. Int J Radiat Oncol Biol Phys
+1993;25:381-5.
+4. Larson D, Flickinger J, Loeffler J. The radiobiology of radiosurgery. Int J Radiat
+Oncol Biol Phys 1993;25:557-61.
+[The author responds:]
+What Drs. Kondziolka and
+Cusimano refer to as the
+“slow” development of radiosurgery
+in Canada really represents a cautious
+approach and a desire to rigorously
+define the indications for radiosurgery, so that no patient is subjected to unnecessary treatment.
+For physics comparisons, I would
+call attention to a report of poor correspondence between calculated dose
+and measured radiation effect for the
+Gamma Knife1 (Fig. 3 in that article)
+and the good correspondence reported by our centre2 (Fig. 2 in that
+article).
+I certainly agree that “Canadian
+physicians must recommend treatments on the basis of safety, efficacy
+and cost-effectiveness.” With these
+criteria, they may very well choose
+treatment in Canada.
+Michael Schwartz, MD, MSc
+Head, Division of Neurosurgery
+Sunnybrook Health Science Centre
+Associate Professor
+Department of Surgery
+University of Toronto
+Toronto, Ont.
+References
+1. Flickinger JC, Lunsford LD, Wu A, Maitz
+AH, Kalend AM. Treatment planning for
+Gamma Knife radiosurgery with multiple
+isocenters. Int J Radiat Oncol Biol Phys
+1990;18(1):1495-501.
+2. Ramani R, O’Brien PF, Davey P,
+Schwartz ML, Young CS, Lightstone AW,
+et al. Implementation of multiple isocentre
+treatment for dynamic radiosurgery. Br J
+Radiol 1995;68:731-5.
+Correspondance
+15512 August 11/98 CMAJ /Page 220
+220 JAMC • 11 AOÛT 1998; 159 (3)
+Docket: 1-5512 Initial: JN
+Customer: CMAJ Aug 11/98
+Où que vous soyez
+Gardez
+contact
+www.cma.ca
