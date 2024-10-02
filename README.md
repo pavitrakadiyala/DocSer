@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-**DocSemantic** is a semantic search system that allows users to upload documents (PDFs or text files) and query them using natural language. This system is powered by AI techniques to understand and retrieve relevant sections from the documents based on the user's query. It is built using a combination of Flask for the backend, React for frontend, Pinecone for efficient vector storage and retrieval, and pre-trained sentence transformers for generating document embeddings.
+**DocSemantic** is a semantic search system that allows users to upload documents (PDFs or text files) and query them using natural language. This system is powered by AI techniques to understand and retrieve relevant sections from the documents based on the user's query. It is built using a combination of Flask for the backend, React for front end, Pinecone for efficient vector storage and retrieval, and pre-trained sentence transformers for generating document embeddings.
 
 ## **Features**
 
@@ -17,6 +17,7 @@
    - Components:
      - `FileUpload`: Allows users to upload PDF or text files for indexing.
      - `QueryForm`: Allows users to enter a natural language query and see results from the indexed documents.
+          - Error Handling for both the components.
 
 2. **Backend**:
    - **Flask**: Serves the API endpoints for file upload and querying.
@@ -62,10 +63,17 @@ Ensure you have the following installed:
 Now use the application!
 
 ## **Images**
+![image](https://github.com/user-attachments/assets/86a2d54b-d2d2-4b72-89c4-0c68b268198c)
+![image](https://github.com/user-attachments/assets/bb1ed733-cd9b-43bb-92ee-5ad7c7cf3c1d)
+![image](https://github.com/user-attachments/assets/4b489dd4-31ac-4e3e-9e9e-11b929bdd143)
+![image](https://github.com/user-attachments/assets/d884a564-e2cd-4b19-bf1a-7599a26a7bb1)
+
+
 ## **Assumptions**
 1. The Pinecone database stores both newly uploaded files and previously uploaded ones, allowing for continuous document indexing.
 2. Duplicate documents may be present in the system, as no current mechanism prevents this.
 3. The current model in use for OpenAI is GPT-3.5, though there is room for improvement by upgrading to a more advanced model.
+4. Uploading 11 documents from the NCBI website in under a minute. Retrieval time is within 5 seconds.
    
 ## **Future Scope**
 * Improve Upload Speed: Optimize the document upload and indexing process by leveraging GPU acceleration and parallel processing.
