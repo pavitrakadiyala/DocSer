@@ -1,0 +1,12 @@
+langchain
+openai
+pinecone-client
+PyPDF2
+langchain-pinecone
+langchain-huggingface
+python-dotenv
+langchain_openai
+langchain_community
+flask
+flask-cors
+ctransformers
